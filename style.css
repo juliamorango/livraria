@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.cabeçalho{
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.imagem-container{
+    width: 90px;
+    height: 90px;
+    padding: lem;
+}
